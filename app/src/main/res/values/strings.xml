@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">ControlArduino</string>
+    <string name="arduino_code">arduino code</string>
+    <string name="design_breadbord">design breadbord</string>
+    <string name="close">close</string>
+    <string name="banner_unit_id">ca-app-pub-9474173450826526/7868461200</string>
+</resources>

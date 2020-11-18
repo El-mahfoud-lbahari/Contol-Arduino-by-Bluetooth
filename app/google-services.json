@@ -1,0 +1,48 @@
+{
+  "project_info": {
+    "project_number": "353150771887",
+    "firebase_url": "https://controlarduinoapp.firebaseio.com",
+    "project_id": "controlarduinoapp",
+    "storage_bucket": "controlarduinoapp.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:353150771887:android:207c175c7e73a3a2aa2a5a",
+        "android_client_info": {
+          "package_name": "com.mahtiz.controlarduino"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "353150771887-scfqoer6a2mtocac68r0nll2e4pogafp.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.mahtiz.controlarduino",
+            "certificate_hash": "8bcab26a6a9fb9708aa2159baee22ef606a7f557"
+          }
+        },
+        {
+          "client_id": "353150771887-4ejcl0k35evlqc2k2vhgalas5ffa0iur.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCZn7ZZS_QPFL2h4mt4B68PawV4Aqe-06g"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "353150771887-4ejcl0k35evlqc2k2vhgalas5ffa0iur.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
